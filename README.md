@@ -1,4 +1,4 @@
-Sample App for Senior Android Developer Assignment
+Sample App for Android Developer Assignment
 ===================================
 
 I've created a public repository in Github and can clone the master branch with "Clone with HTTPS".
